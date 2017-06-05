@@ -14,20 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:Author>
   <o:LastAuthor>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:LastAuthor>
-  <o:Revision>8</o:Revision>
+  <o:Revision>9</o:Revision>
   <o:TotalTime>5</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
-<<<<<<< HEAD
-  <o:LastSaved>2017-06-05T12:48:00Z</o:LastSaved>
-=======
-  <o:LastSaved>2017-06-05T12:46:00Z</o:LastSaved>
->>>>>>> Pesho
+  <o:LastSaved>2017-06-05T13:00:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>24</o:Words>
-  <o:Characters>138</o:Characters>
+  <o:Words>8</o:Words>
+  <o:Characters>48</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>161</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>55</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -726,19 +722,6 @@ div.WordSection1
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Programming-basics-january-2017-
 <span class=SpellE>Drawning</span> <span class=SpellE>with</span> <span
 class=SpellE>Loops</span>! <o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>Hello &#8220;again&#8221;! Exercise making repository!<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>You are strong! Hello dear Santa!<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-<<<<<<< HEAD
-mso-ansi-language:EN-US'>Yahoo is better than google!<o:p></o:p></span></p>
-=======
-mso-ansi-language:EN-US'>My name is The PUDRAneZAHAR!<o:p></o:p></span></p>
->>>>>>> Pesho
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
