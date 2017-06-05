@@ -17,6 +17,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Revision>11</o:Revision>
   <o:TotalTime>6</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
+<<<<<<< HEAD
   <o:LastSaved>2017-06-05T13:26:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>22</o:Words>
@@ -24,6 +25,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
   <o:CharactersWithSpaces>148</o:CharactersWithSpaces>
+=======
+  <o:LastSaved>2017-06-05T13:17:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>23</o:Words>
+  <o:Characters>132</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>154</o:CharactersWithSpaces>
+>>>>>>> VIOLETKA
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -726,6 +736,7 @@ class=SpellE>Loops</span>!<o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>EHOOOOOOOOOOOOOOOOO( </span><span style='mso-fareast-font-family:
 "Times New Roman"'><o:p></o:p></span></p>
+<<<<<<< HEAD
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>I&#8217;m the bigger think in the word &#8211; The
@@ -733,8 +744,15 @@ Joke!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>Singapore is not in China!<o:p></o:p></span></p>
+=======
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>I&#8217;m the bigger thing in the word &#8211; The
+Joke!<o:p></o:p></span></p>
+>>>>>>> VIOLETKA
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>Only real people have real money!<o:p></o:p></span></p>
 
 </div>
 
