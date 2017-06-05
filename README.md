@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:Author>
   <o:LastAuthor>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:LastAuthor>
-  <o:Revision>15</o:Revision>
+  <o:Revision>16</o:Revision>
   <o:TotalTime>8</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
-  <o:LastSaved>2017-06-05T13:45:00Z</o:LastSaved>
+  <o:LastSaved>2017-06-05T13:47:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>31</o:Words>
-  <o:Characters>177</o:Characters>
+  <o:Words>8</o:Words>
+  <o:Characters>48</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>207</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>55</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,7 +36,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>200</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -670,9 +669,6 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -719,36 +715,7 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Programming-basics-january-2017-
-<span class=SpellE>Drawning</span> <span class=SpellE>with</span> <span
-class=SpellE>Loops</span>!<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>TEST 1 &#8211; </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084;
-&#1087;&#1098;&#1083;&#1085;&#1072;
-&#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>TEST 2 &#8211; </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084;
-&#1074;&#1090;&#1086;&#1088;&#1072;
-&#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>TEST 3 &#8211; </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#8222;&#1053;&#1072;&#1076;&#1087;&#1080;&#1089;&#1080;&#1090;&#1077;
-</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
-mso-ansi-language:EN-US'>TEST1 </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#1080; </span><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>TEST2 </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#1076;&#1072; &#1085;&#1077; &#1089;&#1077;
-&#1095;&#1077;&#1090;&#1072;&#1090; &#8211; &#1090;&#1077; &#1089;&#1072;
-&#1079;&#1072;
-&#1091;&#1087;&#1088;&#1072;&#1078;&#1085;&#1077;&#1085;&#1080;&#1077;
-&#1085;&#1072; </span><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EN-US'>git</span></span><span lang=EN-US
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> I <span
-class=SpellE>github</span>&#8221;<o:p></o:p></span></p>
+Drawning with Loops!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
