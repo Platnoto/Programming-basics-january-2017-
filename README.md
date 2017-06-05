@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:Author>
   <o:LastAuthor>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:LastAuthor>
-  <o:Revision>17</o:Revision>
+  <o:Revision>18</o:Revision>
   <o:TotalTime>8</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
-  <o:LastSaved>2017-06-05T13:56:00Z</o:LastSaved>
+  <o:LastSaved>2017-06-05T14:00:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>10</o:Words>
-  <o:Characters>63</o:Characters>
+  <o:Words>11</o:Words>
+  <o:Characters>68</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>72</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>78</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -36,8 +36,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:Zoom>180</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -671,9 +669,6 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -720,11 +715,13 @@ div.WordSection1
 <div class=WordSection1>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Programming-basics-january-2017-
-<span class=SpellE>Drawning</span> <span class=SpellE>with</span> <span
-class=SpellE>Loops</span>!<o:p></o:p></span></p>
+Drawning with Loops!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>GIT HUB WELLCOME<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST2<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
