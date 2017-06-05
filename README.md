@@ -17,7 +17,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Revision>8</o:Revision>
   <o:TotalTime>5</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
+<<<<<<< HEAD
   <o:LastSaved>2017-06-05T12:48:00Z</o:LastSaved>
+=======
+  <o:LastSaved>2017-06-05T12:46:00Z</o:LastSaved>
+>>>>>>> Pesho
   <o:Pages>1</o:Pages>
   <o:Words>24</o:Words>
   <o:Characters>138</o:Characters>
@@ -730,7 +734,11 @@ mso-ansi-language:EN-US'>Hello &#8220;again&#8221;! Exercise making repository!<
 mso-ansi-language:EN-US'>You are strong! Hello dear Santa!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+<<<<<<< HEAD
 mso-ansi-language:EN-US'>Yahoo is better than google!<o:p></o:p></span></p>
+=======
+mso-ansi-language:EN-US'>My name is The PUDRAneZAHAR!<o:p></o:p></span></p>
+>>>>>>> Pesho
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
