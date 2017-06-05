@@ -17,13 +17,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Revision>14</o:Revision>
   <o:TotalTime>8</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
-  <o:LastSaved>2017-06-05T13:38:00Z</o:LastSaved>
+  <o:LastSaved>2017-06-05T13:41:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>17</o:Words>
-  <o:Characters>102</o:Characters>
+  <o:Words>32</o:Words>
+  <o:Characters>184</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>118</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>215</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -37,7 +37,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <w:View>Print</w:View>
   <w:Zoom>200</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -643,10 +642,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:204;
+	mso-font-charset:1;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+	mso-font-signature:0 0 0 0 0 0;}
  /* Style Definitions */
  p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{mso-style-unhide:no;
@@ -725,7 +724,8 @@ class=SpellE>Loops</span>!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
 mso-ansi-language:EN-US'>TEST 1 &#8211; </span><span style='mso-fareast-font-family:
-"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084; &#1087;&#1098;&#1083;&#1085;&#1072;
+"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084;
+&#1087;&#1098;&#1083;&#1085;&#1072;
 &#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
@@ -733,6 +733,24 @@ mso-ansi-language:EN-US'>TEST 2 &#8211; </span><span style='mso-fareast-font-fam
 "Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084;
 &#1074;&#1090;&#1086;&#1088;&#1072;
 &#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST 3 &#8211; </span><span style='mso-fareast-font-family:
+"Times New Roman"'>&#8222;&#1053;&#1072;&#1076;&#1087;&#1080;&#1089;&#1080;&#1090;&#1077;
+</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST1 </span><span style='mso-fareast-font-family:
+"Times New Roman"'>&#1085;&#1072;&#1076;&#1087;&#1080;&#1089;&#1080;&#1090;&#1077;
+</span><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST2 </span><span style='mso-fareast-font-family:
+"Times New Roman"'>&#1076;&#1072; &#1085;&#1077; &#1089;&#1077;
+&#1095;&#1077;&#1090;&#1072;&#1090; &#8211; &#1090;&#1077; &#1089;&#1072;
+&#1079;&#1072;
+&#1091;&#1087;&#1088;&#1072;&#1078;&#1085;&#1077;&#1085;&#1080;&#1077;
+&#1085;&#1072; </span><span class=SpellE><span lang=EN-US style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US'>git</span></span><span lang=EN-US
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EN-US'> I github&#8221;<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
