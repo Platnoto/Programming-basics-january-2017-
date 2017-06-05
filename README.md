@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:Author>
   <o:LastAuthor>&#1056;&#1072;&#1076;&#1086;&#1089;&#1090;&#1080;&#1085;</o:LastAuthor>
-  <o:Revision>12</o:Revision>
-  <o:TotalTime>6</o:TotalTime>
+  <o:Revision>14</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
   <o:Created>2017-06-05T11:47:00Z</o:Created>
-  <o:LastSaved>2017-06-05T13:32:00Z</o:LastSaved>
+  <o:LastSaved>2017-06-05T13:38:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>8</o:Words>
-  <o:Characters>46</o:Characters>
+  <o:Words>17</o:Words>
+  <o:Characters>102</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>53</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>118</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -722,6 +722,19 @@ div.WordSection1
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Programming-basics-january-2017-
 <span class=SpellE>Drawning</span> <span class=SpellE>with</span> <span
 class=SpellE>Loops</span>!<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST 1 &#8211; </span><span style='mso-fareast-font-family:
+"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084; &#1087;&#1098;&#1083;&#1085;&#1072;
+&#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:EN-US'>TEST 2 &#8211; </span><span style='mso-fareast-font-family:
+"Times New Roman"'>&#1044;&#1086;&#1073;&#1072;&#1074;&#1103;&#1084;
+&#1074;&#1090;&#1086;&#1088;&#1072;
+&#1090;&#1098;&#1087;&#1086;&#1090;&#1080;&#1103;!<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
